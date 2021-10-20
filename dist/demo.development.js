@@ -751,8 +751,8 @@ var Demo = (function (_super) {
             center: [106.704497, 10.769589],
             zoom: 17,
             geolocate: true,
-            tilt: 40,
-            bearing: -90,
+            tilt: 0,
+            bearing: 0,
             controls: true,
             mapType: map4d__WEBPACK_IMPORTED_MODULE_2__["MapType"].roadmap,
             shouldChangeMapMode: function () {
@@ -1141,3 +1141,4 @@ module.exports = ReactDOM;
 /***/ })
 
 /******/ });
+//# sourceMappingURL=demo.development.js.map
